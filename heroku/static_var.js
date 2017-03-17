@@ -10,11 +10,12 @@ var hellolist = ['ciao', 'getstarted', 'start', 'cominciamo', 'iniziamo', 'inizi
 var hellomessage = "! Sono HiFretta! Inviami la tua posizione per sapere tra quanto passa l\'auto che ti serve nelle fermate vicine!\nPer sapere in che altro modo ti posso aiutare digita aiuto."
 
 //URL of images
-var logo_atac_URL = "https://github.com/rfidlabsapienza/Hifretta/blob/master/images/Logo_ATAC.png?raw=true";
-var posizione_gif_URL = "https://github.com/rfidlabsapienza/Hifretta/blob/master/images/posizione.gif";
-var id_palina_URL = "https://github.com/rfidlabsapienza/Hifretta/blob/master/images/id_palina.jpg?raw=true";
-var bus_example_URL = "https://github.com/rfidlabsapienza/Hifretta/blob/master/images/bus_example.jpg?raw=true";
-var cat_gif_URL = "https://github.com/rfidlabsapienza/Hifretta/blob/master/images/gif-cat.gif?raw=true";
+var logo_atac_URL = "https://raw.githubusercontent.com/rfidlabsapienza/Hifretta/master/images/Logo_ATAC.png";
+var posizione_gif_URL = "https://raw.githubusercontent.com/rfidlabsapienza/Hifretta/master/images/posizione.gif";
+var id_palina_URL = "https://raw.githubusercontent.com/rfidlabsapienza/Hifretta/master/images/id_palina.jpg";
+var bus_example_URL = "https://raw.githubusercontent.com/rfidlabsapienza/Hifretta/master/images/bus_example.jpg";
+var cat_gif_URL = "https://raw.githubusercontent.com/rfidlabsapienza/Hifretta/master/images/gif-cat.gif";
+
 module.exports.DEV_KEY = DEV_KEY;
 module.exports.helplist = helplist;
 module.exports.benvenuto = benvenuto;
